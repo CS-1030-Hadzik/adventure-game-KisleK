@@ -1,7 +1,11 @@
-# Welcome to the game. Want to play? Enter your name below.
+# Welcome to the game. Want to play?
 print("Welcome to the Adventure Game!")
 print("Your journey begins here...")
-
+""""
+Author: Kyle Kuhn
+Version 1.0
+Description: This program is for your adventure.
+""""
 # Asks for name
 player_name = input("What is your name adventurer?")
 
